@@ -1,4 +1,4 @@
-**Repository Name: Markify**
+*Markify*
 
 **Description:**
 
