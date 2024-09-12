@@ -10,4 +10,4 @@ SwiftMarkify is a powerful tool designed to seamlessly convert files of any form
 - User-friendly interface for fast and efficient conversions
 - Customizable settings to tailor the output to your needs
 
-Additionally, the Markify repository includes a dedicated section with educational resources to help users learn and master Markdown. Explore guides, tutorials, and examples to enhance your Markdown skills alongside using Markify.
+Additionally, the SwiftMarkify repository includes a dedicated section with educational resources to help users learn and master Markdown. Explore guides, tutorials, and examples to enhance your Markdown skills alongside using Markify.
