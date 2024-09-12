@@ -1,8 +1,8 @@
-# Markify 
+# SwiftMarkify 
 
 **Description:**
 
-Markify is a powerful tool designed to seamlessly convert files of any format into Markdown (.md) files. From PDFs and Word documents to images and plain text, Markify simplifies the process of generating clean, structured Markdown, perfect for documentation, web development, and more.
+SwiftMarkify is a powerful tool designed to seamlessly convert files of any format into Markdown (.md) files. From PDFs and Word documents to images and plain text, Markify simplifies the process of generating clean, structured Markdown, perfect for documentation, web development, and more.
 
 **Key Features:**
 - Converts a wide range of file formats (PDF, Word, Text, etc.)
