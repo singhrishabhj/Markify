@@ -36,3 +36,26 @@ Markdown files are saved with the `.md` or `.markdown` file extension. Here’s 
 - **Compatibility**: Markdown is supported by many platforms and tools, making it a versatile choice for different types of content.
 
 Markdown's simplicity and versatility have made it a popular choice for many writing and documentation needs, offering a balance between ease of use and powerful formatting capabilities.
+
+---
+
+Here’s a summary comparing lightweight markup languages with standard markup languages:
+
+### **Markup Language**
+
+- **Definition**: Uses tags to annotate and structure text.
+- **Complexity**: Can be complex with detailed syntax.
+- **Examples**: HTML, XML.
+- **Use Cases**: Web pages, data representation.
+
+### **Lightweight Markup Language**
+
+- **Definition**: Simplified version of markup languages, easy to read and write.
+- **Complexity**: Minimal syntax, fewer tags.
+- **Examples**: Markdown, reStructuredText.
+- **Use Cases**: Documentation, notes.
+
+### **Key Differences**
+
+- **Syntax Complexity**: Lightweight languages are simpler and more readable.
+- **Purpose**: Lightweight languages focus on ease of use; traditional markup languages offer detailed control.
